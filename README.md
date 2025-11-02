@@ -70,7 +70,9 @@ src/main/java
 ## 🧠 Example Output
 
 Hospital Name: City Care Hospital
+
 Doctor : Dr. Meena Gupta (Cardiologist)
+
 Equipment: ECG Machine (Cost: Rs.250000.0)
 
 
